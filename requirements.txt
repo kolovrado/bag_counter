@@ -1,0 +1,17 @@
+opencv-contrib-python==4.10.0.82
+opencv-python==4.10.0.82
+opencv-python-headless==4.10.0.82
+Cython==3.0.10
+numpy==1.26.4
+loguru
+thop
+ninja
+tabulate
+python-multipart
+psutil==5.9.5
+shapely==2.0.4
+lapx==0.5.9
+uvicorn[standard]==0.20.0
+fastapi==0.92.0
+ultralytics==8.2.28
+
